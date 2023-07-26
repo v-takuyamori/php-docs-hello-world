@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'WebApp-mori-2307110060003453-php'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_427AF7CD580749838C22320AD1B560EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD033F4F9B234F0B84519E3F090C7002 }}
           package: .
